@@ -58,7 +58,7 @@ public class FirstFactorial{
 
 
 
-    
+
     /**
      * Calculate factorial using BigInteger that can calculate any size of Factorial
      * @param num any integer
